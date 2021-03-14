@@ -1,0 +1,7 @@
+name: EssentialsBuy
+version: ${project.version}
+main: me.hsgamer.essentialsbuy.EssentialsBuy
+api-version: 1.16
+depend: [ Essentials ]
+authors: [ HSGamer ]
+description: Buy feature for Essentials
